@@ -4,5 +4,5 @@
 
 
 <p align="center">
-  <img src="/landing page.png" alt="Presentation page" />
+  <img src="/profile/landing page.png" alt="Presentation page" />
 </p>
